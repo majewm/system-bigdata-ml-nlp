@@ -1,4 +1,4 @@
-## Sentiment Analysis using Machine Learning & Natural Language Processing 
+## Sentiment Analysis using Big Data, Machine Learning & Natural Language Processing 
 
 ### Authors: Keith Stuart, Maciej Majewski
 
@@ -21,5 +21,5 @@ Apache Maven: 3.3.0
 * Apache Maven: 3.3.0
 
 ### Project's features: 
-Project's features: ...
+[...]
 
