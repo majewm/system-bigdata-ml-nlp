@@ -2,6 +2,7 @@
 
 ### Authors: Keith Stuart, Maciej Majewski
 
+
 ![data-engineering-java-spark-app](/images/sentiscore-1.jpg)
 
 Sentiment Analysis using Spark.
@@ -11,15 +12,15 @@ Sentiment Analysis using Spark.
 Sentiment Analysis using Deep Learning.
 
 ### Dependencies:
-Java version: 8 <br />
-Apache Maven: 3.3.0
+* Java: 8
+* Apache Maven: 3.3.0
+* Apache Spark: 3.0.0 
+* Apache Hadoop: 3.3.0
 
 ### Technology stack:
-* Java version: 8
-* Apache Spark version: 3.0.0 
-* Hadoop version: 3.3.0
-* Apache Maven: 3.3.0
+* IntelliJ IDEA Ultimate
 
 ### Project's features: 
-[...]
+* Spark: spark-core_2.12, spark-sql_2.12
+* build plugins: maven-compiler-plugin, maven-assembly-plugin
 
