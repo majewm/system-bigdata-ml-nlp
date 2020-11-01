@@ -1,6 +1,6 @@
 ## Sentiment Analysis using Big Data, Machine Learning & Natural Language Processing 
 
-### Authors: Keith Stuart, Maciej Majewski
+### Authors: Keith Stuart (Prof. - UPV, Spain), Maciej Majewski (Prof. - KUT, Poland)
 
 
 ![data-engineering-java-spark-app](/images/sentiscore-1.jpg)
