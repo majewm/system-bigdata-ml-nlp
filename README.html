@@ -16,6 +16,12 @@ ul{list-style-type:square;margin-left:5;padding:5;}
 ul li {margin-bottom:4;padding:4;}
 .topic {font-weight:700;color:#ff1744;font-size:26px;font-style:normal;line-height:160%;margin:20px 20px 30px 20px;}
 .description {font-weight:500;color:#428bca;font-size:19px;font-style:normal;line-height:160%;margin:15px 20px 40px 20px;}
+hr.dashed {border-top: 2px dashed #999;border-color:#008000;}
+hr.dotted {border-top: 2px dotted #999;border-color:#008000;}
+hr.solid {border-top: 2px solid #999;border-color:#ff1744;}
+hr.hr-text {position:relative;border:none;height:2px;background:#008000;border-color:#ff1744;}
+hr.hr-text::before {content:attr(data-content);display:inline-block;background:#FEF1E6;font-weight:bold;font-size:1.85rem;color:#999;border-radius:30rem;padding:0.2rem 2rem;
+position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);color:#ff1744;}
 </style>
 </head>
 <body>
@@ -24,6 +30,11 @@ ul li {margin-bottom:4;padding:4;}
 <div class="topic text-center">Sentiscore & Machine Learning</div>
 <hr><br>
 <!-- ---------------------------------------------------------------------- -->
+<!-- ------- -->
+<table class="table table-bordered">
+<tbody>
+<tr>
+<td style="width:50%">
 <ul>
 <u><mark><b>About the Project:</b><i>&nbsp; features, dependencies & technology stack:</i></mark></u>
 <li><i>Dependencies:</i><br>
@@ -40,15 +51,26 @@ ul li {margin-bottom:4;padding:4;}
 - build plugins: maven-compiler-plugin, maven-assembly-plugin<br>
 </li>
 </ul>
+</td>
+<td style="width:50%">
 <ul>
 <u><mark><b>Project Objectives, Outcomes and Outputs:</b><i></u>
 <li>Single file analysis</li>
 <li>n-gram analysis</li>
 <li>Corpus analysis</li>
 <li>Keyword analysis</li>
+<li>Keyword ranking</li>
+<li>Sentiment classification using Deep Learning</li>
+<li>Sentiment analysis using Convolutional Nets</li>
+<li>Big Data Processing using the Cloud: Amazon, Azure</li>
+<li>Running Python code inside the Java application</li>
 </ul>
+</td>
+</tr>
+</table>
+<!-- ------- -->
 <!-- ---------------------------------------------------------------------- -->
-<br><hr><br>
+<br><hr class="solid"><hr data-content="Single file analysis" class="hr-text"><br><br>
 <!-- ---------------------------------------------------------------------- -->
 <div class="mx-auto d-flex justify-content-center flex-wrap"><img src="images/sentiscore-1.jpg" class="img-fluid text-center img-thumbnail" alt="sentiscore"></div>
 <div class="description text-center">Sentiment Analysis using Spark.</div>
@@ -62,6 +84,12 @@ code here ...
 </code></pre>
 </ul>
 <br>
+
+<hr class="dashed">
+<hr class="dotted">
+
+
+
 <!-- ---------------------------------------------------------------------- -->
 <br><hr><br>
 <!-- ---------------------------------------------------------------------- -->
