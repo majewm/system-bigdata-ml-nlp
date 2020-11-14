@@ -193,7 +193,8 @@ i{font-weight:600;color:#008000;font-size:18px;font-style:normal;line-height:160
 mark{line-height:180%;}
 ul{list-style-type:square;margin-left:5;padding:5;}
 ul li {margin-bottom:4;padding:4;}
-.topic {font-weight:normal;color:#ff1744;font-size:38px;font-style:normal;line-height:160%;margin:20px 20px 30px 20px;}
+.topic {font-weight:normal;color:#ff1744;font-size:38px;font-style:normal;line-height:160%;margin:15px 20px 0px 20px;}
+.topic-author {color:#00008B;font-size:20px;margin:0px 20px 20px 20px;}
 .description {font-weight:500;color:#428bca;font-size:19px;font-style:normal;line-height:160%;margin:15px 20px 40px 20px;}
 hr.dashed {border-top: 2px dashed #999;border-color:#008000;}
 hr.dotted {border-top: 2px dotted #999;border-color:#008000;}
@@ -281,7 +282,8 @@ position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);color:#ff1744
 <!-- BEGIN: PAGE CONTENT ---------------------------------------------------------------------- -->
 <!-- BEGIN: PAGE CONTENT ---------------------------------------------------------------------- -->
 <!-- BEGIN: PAGE CONTENT ---------------------------------------------------------------------- -->
-<div class="topic text-center">Sentiscore & Machine Learning</div>
+<div class="topic text-center">SentiScore System & Pipelines using Machine Learning</div>
+<div class="topic topic-author text-center">Author: Keith Stuart, Maciej Majewski</div>
 <hr><br>
 <!-- ---------------------------------------------------------------------- -->
 <!-- ------- -->
@@ -352,18 +354,16 @@ position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);color:#ff1744
 </tr>
 </table>
 <!-- ------- -->
-<div class="mx-auto d-flex justify-content-center flex-wrap"><img src="images/sentiscore-1.jpg" class="img-fluid text-center img-thumbnail" alt="sentiscore"></div>
-<div class="description text-center">Sentiment Analysis using Spark.</div>
-<div class="mx-auto d-flex justify-content-center flex-wrap"><img src="images/sentiscore-2.jpg" class="img-fluid text-center img-thumbnail" alt="sentiscore"></div>
-<div class="description text-center">Sentiment Analysis using Deep Learning.</div>
+<div class="mx-auto d-flex justify-content-center flex-wrap"><img src="images/sentiscore-system-1.jpg" class="img-fluid text-center img-thumbnail" alt="sentiscore"></div>
+<div class="description text-center">Single file analysis: Single file output</div>
 <br>
+<!--
 <pre><code class="language-none">
 code here ...
 	code here ...
   code here ...	
 </code></pre>
-</ul>
-<br>
+-->
 <hr class="dashed">
 <hr class="dotted">
 <!-- ---------------------------------------------------------------------- -->
@@ -377,9 +377,14 @@ code here ...
 <tbody>
 <tr>
 <td style="width:50%">
-<ol>
+<ol start="10">
 <u><mark><b>N-GRAM ANALYSIS:</b></mark></u>
-<li></li>
+<li>Carry on from where you stopped with Single File analysis (or, if not, you will
+have to start with step 1 above)</li>
+<li>Click on N-gram Output</li>
+<li>Click on Calculate (you have the option of changing the number of words
+returned)</li>
+<li>Results will appear</li>
 </ol>
 </td>
 <td style="width:50%">
@@ -389,6 +394,8 @@ code here ...
 </td>
 </tr>
 </table>
+<div class="mx-auto d-flex justify-content-center flex-wrap"><img src="images/sentiscore-system-2.jpg" class="img-fluid text-center img-thumbnail" alt="sentiscore"></div>
+<div class="description text-center">N-gram analysis: n-gram output</div>
 <!-- ------- -->
 <hr class="dashed">
 <hr class="dotted">
@@ -405,7 +412,15 @@ code here ...
 <td style="width:50%">
 <ol>
 <u><mark><b>CORPUS ANALYSIS:</b></mark></u>
-<li></li>
+<li>1. Click on SentiScore_v1.0.jar</li>
+<li>2. Click on File Menu (dropdown) → Open corpus folder</li>
+<li>3. Navigate to the SentiScore folder on your computer</li>
+<li>4. Click on Test Corpus → selecting the folder (not each of the five hundred files)</li>
+<li>5. Click on File Menu (dropdown) → Open weights CSV</li>
+<li>6. Navigate to the SentiScore folder on your computer</li>
+<li>7. Open patient_opinion_corpus_database_v4.csv</li>
+<li>8. Click on Corpus Output</li>
+<li>9. Click on Evaluate button (results will appear)</li>
 </ol>
 </td>
 <td style="width:50%">
@@ -415,6 +430,8 @@ code here ...
 </td>
 </tr>
 </table>
+<div class="mx-auto d-flex justify-content-center flex-wrap"><img src="images/sentiscore-system-3.jpg" class="img-fluid text-center img-thumbnail" alt="sentiscore"></div>
+<div class="description text-center">Corpus analysis: corpus output</div>
 <!-- ------- -->
 <hr class="dashed">
 <hr class="dotted">
@@ -467,6 +484,8 @@ code here ...
 </td>
 </tr>
 </table>
+<div class="mx-auto d-flex justify-content-center flex-wrap"><img src="images/sentiscore-system-9.jpg" class="img-fluid text-center img-thumbnail" alt="sentiscore"></div>
+<div class="description text-center">Keyword ranking: keyword ranking output</div>
 <!-- ------- -->
 <hr class="dashed">
 <hr class="dotted">
@@ -493,6 +512,8 @@ code here ...
 </td>
 </tr>
 </table>
+<div class="mx-auto d-flex justify-content-center flex-wrap"><img src="images/sentiscore-system-11.jpg" class="img-fluid text-center img-thumbnail" alt="sentiscore"></div>
+<div class="description text-center">Sentiment classification using Deep Learning: sentiment classification output</div>
 <!-- ------- -->
 <hr class="dashed">
 <hr class="dotted">

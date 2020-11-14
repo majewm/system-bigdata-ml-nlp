@@ -1,29 +1,39 @@
-## Sentiment Analysis using Big Data, Machine Learning & Natural Language Processing 
+## SentiScore Big Data System & Pipelines using Machine Learning & Natural Language Processing
 
 ### Authors: Keith Stuart (Prof., UPV Spain), Maciej Majewski (Prof., KUT Poland)
 
 ### Project Objectives, Outcomes and Outputs: 
-* Single file analysis
-* n-gram analysis
-* Corpus analysis
-* Keyword analysis
+Single file analysis, n-gram analysis, Corpus analysis, Keyword analysis, Keyword ranking, Sentiment classification using Deep Learning, Sentiment analysis using Convolutional Nets, Big Data Processing using the Cloud: Amazon, Azure, Running Python code inside the Java application
 
-![data-engineering-java-spark-app](/images/sentiscore-1.jpg)
+![data-engineering-java-spark-app](/images/sentiscore-system-1.jpg)
 
-Sentiment Analysis using Spark.
+Single file analysis
 
-![data-engineering-java-spark-app](/images/sentiscore-2.jpg)
+![data-engineering-java-spark-app](/images/sentiscore-system-2.jpg)
 
-Sentiment Analysis using Deep Learning.
+N-gram analysis
+
+![data-engineering-java-spark-app](/images/sentiscore-system-3.jpg)
+
+Corpus analysis
+
+![data-engineering-java-spark-app](/images/sentiscore-system-9.jpg)
+
+Keyword ranking
+
+![data-engineering-java-spark-app](/images/sentiscore-system-11.jpg)
+
+Sentiment classification using Deep Learning
 
 ### Dependencies:
 * Java: 8
 * Apache Maven: 3.3.0
 * Apache Spark: 3.0.0 
 * Apache Hadoop: 3.3.0
+* Java Embedded Python (JEP): 3.8.2
 
 ### Technology stack:
-* IntelliJ IDEA Ultimate
+* IntelliJ IDEA Ultimate, Java, Python, DB
 
 ### Project's features: 
 * Spark: spark-core_2.12, spark-sql_2.12
