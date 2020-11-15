@@ -3,27 +3,28 @@
 ### Authors: Keith Stuart (Prof., UPV Spain), Maciej Majewski (Prof., KUT Poland)
 
 ### Project Objectives, Outcomes and Outputs: 
-Single file analysis, n-gram analysis, Corpus analysis, Keyword analysis, Keyword ranking, Sentiment classification using Deep Learning, Sentiment analysis using Convolutional Nets, Cloud: Amazon & Azure, Running Python code inside the Java application, ...
+Single file analysis, n-gram analysis, Corpus analysis, Keyword analysis, Keyword ranking, Sentiment classification using Deep Learning, Sentiment analysis using Convolutional Nets, Cloud: Amazon & Azure, Java Embedded Python (running Python code inside the Java application), ...
+
+**Single file analysis:**
 
 ![sentiscore-system](/images/sentiscore-system-1.jpg)
 
-**Single file analysis**
+**N-gram analysis:**
 
 ![sentiscore-system](/images/sentiscore-system-2.jpg)
 
-**N-gram analysis**
+**Corpus analysis:**
 
 ![sentiscore-system](/images/sentiscore-system-3.jpg)
 
-**Corpus analysis**
+**Keyword ranking:**
 
 ![sentiscore-system](/images/sentiscore-system-9.jpg)
 
-**Keyword ranking**
+**Sentiment classification using Deep Learning:**
 
 ![sentiscore-system](/images/sentiscore-system-11.jpg)
 
-**Sentiment classification using Deep Learning**
 
 ### Dependencies:
 * Java: 8
