@@ -3,27 +3,27 @@
 ### Authors: Keith Stuart (Prof., UPV Spain), Maciej Majewski (Prof., KUT Poland)
 
 ### Project Objectives, Outcomes and Outputs: 
-Single file analysis, n-gram analysis, Corpus analysis, Keyword analysis, Keyword ranking, Sentiment classification using Deep Learning, Sentiment analysis using Convolutional Nets, Big Data Processing using the Cloud: Amazon, Azure, Running Python code inside the Java application
+Single file analysis, n-gram analysis, Corpus analysis, Keyword analysis, Keyword ranking, Sentiment classification using Deep Learning, Sentiment analysis using Convolutional Nets, Cloud: Amazon & Azure, Running Python code inside the Java application, ...
 
-![data-engineering-java-spark-app](/images/sentiscore-system-1.jpg)
+![sentiscore-system](/images/sentiscore-system-1.jpg)
 
-Single file analysis
+**Single file analysis**
 
-![data-engineering-java-spark-app](/images/sentiscore-system-2.jpg)
+![sentiscore-system](/images/sentiscore-system-2.jpg)
 
-N-gram analysis
+**N-gram analysis**
 
-![data-engineering-java-spark-app](/images/sentiscore-system-3.jpg)
+![sentiscore-system](/images/sentiscore-system-3.jpg)
 
-Corpus analysis
+**Corpus analysis**
 
-![data-engineering-java-spark-app](/images/sentiscore-system-9.jpg)
+![sentiscore-system](/images/sentiscore-system-9.jpg)
 
-Keyword ranking
+**Keyword ranking**
 
-![data-engineering-java-spark-app](/images/sentiscore-system-11.jpg)
+![sentiscore-system](/images/sentiscore-system-11.jpg)
 
-Sentiment classification using Deep Learning
+**Sentiment classification using Deep Learning**
 
 ### Dependencies:
 * Java: 8
@@ -33,9 +33,9 @@ Sentiment classification using Deep Learning
 * Java Embedded Python (JEP): 3.8.2
 
 ### Technology stack:
-* IntelliJ IDEA Ultimate, Java, Python, DB
+* IntelliJ IDEA Ultimate, Java, Python, Databases
 
-### Project's features: 
+### Project features: 
 * Spark: spark-core_2.12, spark-sql_2.12
 * build plugins: maven-compiler-plugin, maven-assembly-plugin
 
