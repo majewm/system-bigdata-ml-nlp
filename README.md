@@ -17,6 +17,10 @@ Single file analysis, n-gram analysis, Corpus analysis, Keyword analysis, Keywor
 
 ![sentiscore-system](/images/sentiscore-system-3.jpg)
 
+**Keyword analysis:**
+
+![sentiscore-system](/images/sentiscore-system-5.jpg)
+
 **Keyword ranking:**
 
 ![sentiscore-system](/images/sentiscore-system-9.jpg)
