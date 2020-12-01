@@ -1,4 +1,4 @@
-## SentiScore Big Data System & Pipelines using Machine Learning & Natural Language Processing
+## Big Data System & Pipelines using Machine Learning & Natural Language Processing
 
 ### Authors: Keith Stuart, Maciej Majewski
 
@@ -7,27 +7,27 @@ Single file analysis, n-gram analysis, Corpus analysis, Keyword analysis, Keywor
 
 **Single file analysis:**
 
-![sentiscore-system](/images/sentiscore-system-1.jpg)
+![system](/images/system-1.jpg)
 
 **N-gram analysis:**
 
-![sentiscore-system](/images/sentiscore-system-2.jpg)
+![system](/images/system-2.jpg)
 
 **Corpus analysis:**
 
-![sentiscore-system](/images/sentiscore-system-3.jpg)
+![system](/images/system-3.jpg)
 
 **Keyword analysis:**
 
-![sentiscore-system](/images/sentiscore-system-5.jpg)
+![system](/images/system-5.jpg)
 
 **Keyword ranking:**
 
-![sentiscore-system](/images/sentiscore-system-9.jpg)
+![system](/images/system-9.jpg)
 
 **Sentiment classification using Deep Learning:**
 
-![sentiscore-system](/images/sentiscore-system-11.jpg)
+![system](/images/system-11.jpg)
 
 
 ### Dependencies:
