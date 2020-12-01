@@ -1,6 +1,6 @@
 ## SentiScore Big Data System & Pipelines using Machine Learning & Natural Language Processing
 
-### Authors: Keith Stuart (Prof., UPV Spain), Maciej Majewski (Prof., KUT Poland)
+### Authors: Keith Stuart, Maciej Majewski
 
 ### Project Objectives, Outcomes and Outputs: 
 Single file analysis, n-gram analysis, Corpus analysis, Keyword analysis, Keyword ranking, Sentiment classification using Deep Learning, Sentiment analysis using Convolutional Nets, Cloud: Amazon & Azure, Java Embedded Python (running Python code inside the Java application), ...
