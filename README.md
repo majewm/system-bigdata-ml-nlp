@@ -17,17 +17,25 @@ Single file analysis, n-gram analysis, Corpus analysis, Keyword analysis, Keywor
 
 ![system](/images/system-3.jpg)
 
+**Rules:**
+
+![system](/images/system-4.jpg)
+
 **Keyword analysis:**
 
 ![system](/images/system-5.jpg)
 
 **Keyword ranking:**
 
+![system](/images/system-7.jpg)
+
+**Sentiment data classification using Deep Learning:**
+
 ![system](/images/system-9.jpg)
 
-**Sentiment classification using Deep Learning:**
+**Sentiment text classification using Deep Learning:**
 
-![system](/images/system-11.jpg)
+![system](/images/system-10.jpg)
 
 
 ### Dependencies:
