@@ -59,7 +59,7 @@ Text analysis, n-gram analysis, text corpus analysis, rules, keyword analysis, O
 
 1. Keith Stuart, Maciej Majewski: Sentiment Analysis for Decision Support of Autonomous Systems, International Journal, 2021.
 
-2. Keith Stuart, Maciej Majewski: Intelligent Opinion Mining and Sentiment Analysis Using Artificial Neural Networks. 22nd International Conference on Neural Information Processing - ICONIP2015, Istanbul, Turkey, 9-12 November 2015. Lecture Notes in Computer Science Volume 9492 - Neural Information Processing. Springer International Publishing Switzerland 2015. 103-110. DOI:10.1007/978-3-319-26561-2_13
+2. Keith Stuart, Maciej Majewski: Intelligent Opinion Mining and Sentiment Analysis Using Artificial Neural Networks. 22nd International Conference on Neural Information Processing - ICONIP2015, Istanbul, Turkey, 9-12 November 2015. Lecture Notes in Computer Science Volume 9492 - Neural Information Processing. Springer International Publishing Switzerland 2015. 103-110. [DOI:10.1007/978-3-319-26561-2_13](https://www.doi.org/10.1007/978-3-319-26561-2_13)
 
 3. Keith Stuart, Maciej Majewski, Ana Botella Trelis: Intelligent semantic-based system for corpus analysis through hybrid probabilistic neural networks. International Symposium on Neural Networks - ISNN 2011, Guilin, China, May 29-June 1, 2011. Lecture Notes in Computer Science Volume 6675 - Advances in Neural Networks. Springer 2011. 83-92. DOI:10.1007/978-3-642-21105-8_11
 
