@@ -49,7 +49,7 @@ Text analysis, n-gram analysis, text corpus analysis, rules, keyword analysis, O
 
 
 ### Technology stack:
-* IntelliJ IDEA Ultimate, Java, Scala, Python, Databases, Heterogeneous data sets (TXT, JSON, CSV, Point Cloud)
+* IntelliJ IDEA Ultimate, Java, Scala, Python, Databases, Heterogeneous data sets (TXT, JSON, CSV, Point Cloud), Neural network architectures
 
 ### Project features: 
 * Spark: spark-core_2.12, spark-sql_2.12
